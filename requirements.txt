@@ -14,5 +14,7 @@ notebook==6.4.11
 numpy==1.22.3
 pandas==1.4.2
 streamlit==1.9.0
-tensorflow==2.2.0
-
+tensorboard==2.4.0                
+tensorboard-plugin-wit==1.6.0                        
+tensorflow==2.2.0            
+tensorflow-base==2.2.0
